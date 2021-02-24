@@ -1,0 +1,42 @@
+body{ 
+	background: linear-gradient(90deg, #136a8a, #267871);
+	margin: 0px;
+	padding: 0px;
+}
+.main
+{
+	background:#e8f1f2;
+	height: 430px;
+	width: 800px;
+	margin: 75px 0px 0px 265px;
+	border-radius:10px
+}
+.top
+{
+	background:#078c92;
+    border-radius: 10px 9px 0px 0px;
+}
+.btn{
+	width: 75px;
+	height: 25px;
+	font-family: lucida console;
+	font-size: 15px;
+	margin: 14px 0px -13px 13px;
+	border-radius: 10px;
+	border: none;
+	text-decoration:none;
+}
+
+.label{margin: -19px 0px 0px 280px;color:white;font-family: lucida console;}
+
+.middle{margin: 63px 0px 0px 110px;}
+.editbtn{
+	width: 380px;
+	padding: 8px;
+	border-radius: 12px;
+	border: none;
+	background:#156c87;
+	font-family: lucida console;
+	color:white;
+	font-size: 20px;
+}
